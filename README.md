@@ -25,6 +25,6 @@ Não será necessário nenhuma instalação em seu computador para a visualizaç
 
 Basta clonar o repositório executando 
 ```bash
-git clone 
+git clone https://github.com/italorayonne-study/sistematizacao-web.git
 ```
 Em seguida abrir o arquivo index.html
